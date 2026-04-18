@@ -38,7 +38,3 @@ I am a Computer Science undergraduate focused on building high-performance syste
 📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/shenukamilan](https://www.linkedin.com/in/shenukamilan)  
 🌐 **Portfolio:** [shenuka-portfolio.netlify.app](https://shenuka-portfolio.netlify.app/)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shenukamilan&color=blueviolet&style=flat-square" alt="views" />
-</p>
