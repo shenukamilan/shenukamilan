@@ -4,13 +4,13 @@
 
 # Hi there! I'm Shenuka 👋
 
-I am a Computer Science undergraduate with a deep interest in software engineering and full-stack development. I enjoy building efficient, user-centric applications and am constantly exploring new technologies to solve real-world problems through code.
+To me, code is a puzzle waiting to be solved. I love the process of taking a "what if" and engineering it into something you can actually use. Whether it's the hidden logic or the interface you touch, I focus on making sure every build is solid and ready to scale.
 
 <hr style="height:1px;border:none;background-color:#333;">
 
 ### 🚀 What I Do
-* **Full-Stack Development**: Building web and mobile applications using the MERN stack.
-* **Software Engineering**: Creating robust solutions with Java and Python.
+* **Full-Stack Builds**: Taking an idea from a rough concept to a fully functional, live application.
+* **Logic & Architecture**: Solving the "puzzle" behind the screen to ensure every system is efficient, reliable, and ready to grow.
 
 <hr style="height:1px;border:none;background-color:#333;">
 
