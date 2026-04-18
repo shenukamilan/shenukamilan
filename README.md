@@ -6,29 +6,27 @@
 
 I focus on building high-performance systems from the ground up, specializing in software engineering with a heavy emphasis on backend logic, system reliability, and scalable architecture. My approach centers on turning complex requirements into clean, optimized solutions that perform at scale.
 
-<hr style="height:1px;border:none;background-color:#333;">
+---
 
+### My Stats
 
-###  How to reach me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shenukamilan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Shenuka's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenukamilan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
-📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)
+---
 
-🔗 **LinkedIn:** [linkedin.com/in/shenukamilan](https://www.linkedin.com/in/shenukamilan)
-
-🌐 **Portfolio:** [shenuka-portfolio.netlify.app](https://shenuka-portfolio.netlify.app/)
-
-<hr style="height:1px;border:none;background-color:#333;">
-
-###  Languages & Tools
+### Languages & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,figma,postman&perline=8" />
 </a>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=7" />
-</a>
+---
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&perline=6" />
-</a>
+### How to reach me
+
+* 📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/shenukamilan](https://www.linkedin.com/in/shenukamilan)
+* 🌐 **Portfolio:** [shenuka-portfolio.netlify.app](https://shenuka-portfolio.netlify.app/)
