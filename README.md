@@ -4,7 +4,7 @@
 
 # Hi there! I'm Shenuka 👋
 
-I focus on building high-performance systems from the ground up, specializing in software engineering with a heavy emphasis on backend logic, system reliability, and scalable architecture. My approach centers on turning complex requirements into clean, optimized solutions that perform at scale.
+I am a Computer Science undergraduate focused on building high-performance systems from the ground up, specializing in software engineering with a heavy emphasis on backend logic, system reliability, and scalable architecture. My approach centers on turning complex requirements into clean, optimized solutions that perform at scale.
 
 ---
 
@@ -35,6 +35,10 @@ I focus on building high-performance systems from the ground up, specializing in
 
 ### How to reach me
 
-* 📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/shenukamilan](https://www.linkedin.com/in/shenukamilan)
-* 🌐 **Portfolio:** [shenuka-portfolio.netlify.app](https://shenuka-portfolio.netlify.app/)
+📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/shenukamilan](https://www.linkedin.com/in/shenukamilan)  
+🌐 **Portfolio:** [shenuka-portfolio.netlify.app](https://shenuka-portfolio.netlify.app/)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shenukamilan&color=blueviolet&style=flat-square" alt="views" />
+</p>
