@@ -4,17 +4,12 @@
 
 # Hi there! I'm Shenuka 👋
 
-To me, code is a puzzle waiting to be solved. I love the process of taking a "what if" and engineering it into something you can actually use. Whether it's the hidden logic or the interface you touch, I focus on making sure every build is solid and ready to scale.
+I focus on building high-performance systems from the ground up, specializing in software engineering with a heavy emphasis on backend logic, system reliability, and scalable architecture. My approach centers on turning complex requirements into clean, optimized solutions that perform at scale.
 
 <hr style="height:1px;border:none;background-color:#333;">
 
-### 🚀 What I Do
-* **Full-Stack Engineering**: Taking an idea from a rough concept to a fully functional, live application.
-* **Logic & Architecture**: Solving the "puzzle" behind the screen to ensure every system is efficient, reliable, and ready to grow.
 
-<hr style="height:1px;border:none;background-color:#333;">
-
-### 📫 How to reach me
+###  How to reach me
 
 📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)
 
@@ -24,7 +19,7 @@ To me, code is a puzzle waiting to be solved. I love the process of taking a "wh
 
 <hr style="height:1px;border:none;background-color:#333;">
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&perline=6" />
