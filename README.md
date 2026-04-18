@@ -20,7 +20,15 @@ I focus on building high-performance systems from the ground up, specializing in
 ### Languages & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&perline=6" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=7" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&perline=6" />
 </a>
 
 ---
