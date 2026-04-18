@@ -9,7 +9,7 @@ To me, code is a puzzle waiting to be solved. I love the process of taking a "wh
 <hr style="height:1px;border:none;background-color:#333;">
 
 ### 🚀 What I Do
-* **Full-Stack Builds**: Taking an idea from a rough concept to a fully functional, live application.
+* **Full-Stack Engineering**: Taking an idea from a rough concept to a fully functional, live application.
 * **Logic & Architecture**: Solving the "puzzle" behind the screen to ensure every system is efficient, reliable, and ready to grow.
 
 <hr style="height:1px;border:none;background-color:#333;">
